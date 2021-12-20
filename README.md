@@ -5,9 +5,13 @@
 
 I'm
 Full Stack Developper
-Dynamic professional with 12.6 years of experience in managing Software Development Lifecycle (SDLC) right from requirement analysis, documentation (functional specifications, technical design), coding and maintenance of proposed applications 
-Leveraged skills in understanding client process and conducting trend analysis to understand user needs and translating them into solutions that save time, eliminate redundancies and improve quality
+
+Dynamic professional with 12.6 years of experience in managing Software Development Lifecycle (SDLC) right from requirement analysis, documentation (functional specifications, technical design), coding and maintenance of proposed applications.
+ 
+Leveraged skills in understanding client process and conducting trend analysis to understand user needs and translating them into solutions that save time, eliminate redundancies and improve quality.
+
 Real Time Data Processing and Analysis based on IoT platform and transmitting those data into interface for user analysis and tracking assets [in hospitals/shopping stores]. 
+
 I have a wide range of skills that include back-end development using open source technologies (NodeJs, Java), front-end development (HTML5, CSS3, Javascript, Responsive), Server Administrator(AWS, GCP),database(MongoDB,Postgresql,Mysql), CI/CD(Docker, kubernetes)
 
 
