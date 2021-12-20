@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Saumen-yellow)](https://stackoverflow.com/users/13286666/saumendas)
 
 I'm
-Full Stack Developper
+Full Stack Developer
 
 Dynamic professional with 12.6 years of experience in managing Software Development Lifecycle (SDLC) right from requirement analysis, documentation (functional specifications, technical design), coding and maintenance of proposed applications.
  
