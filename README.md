@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saumen-das-9854a979/)](https://www.linkedin.com/in/saumen-das-9854a979/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/13286666/saumendas)
+[![Linkedin Badge](https://img.shields.io/badge/-Saumen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saumen-das-9854a979/)](https://www.linkedin.com/in/saumen-das-9854a979/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Saumen-yellow)](https://stackoverflow.com/users/13286666/saumendas)
 
 I'm
 Full Stack Developper
